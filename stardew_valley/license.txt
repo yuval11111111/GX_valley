@@ -1,0 +1,9 @@
+*user license*
+
+this software extension for Opera GX can be used by anyone
+
+user cannot claim this extension or selling this extension for any amount of money
+
+source code can be found at ""
+
+Made by @YuvalTheCookie
